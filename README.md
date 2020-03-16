@@ -1,0 +1,1 @@
+A simple, bare-bones theme for maintenance.
